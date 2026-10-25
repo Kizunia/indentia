@@ -8,10 +8,10 @@
 		<version>4.1.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.timetia</groupId>
+	<groupId>com.kibootia</groupId>
 	<artifactId>backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
+	<name>Kibootia Backend</name>
 	<description/>
 	<url/>
 	<licenses>

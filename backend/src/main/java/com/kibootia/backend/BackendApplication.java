@@ -1,4 +1,4 @@
-package com.timetia.backend;
+package com.kibootia.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.timetia.backend;
+package com.kibootia.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
